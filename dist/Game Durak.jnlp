@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Game Durak.jnlp">
+  <information>
+    <title>Game Durak</title>
+    <vendor>Юыху</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <application-desc main-class="ClientMenu.GameStart"  name="Game Durak" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
